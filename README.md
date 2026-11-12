@@ -32,7 +32,6 @@ Navin_N_DSA_Task2_Submission/
 ├── test_cases.c
 ├── Report/
 │   ├── Nareshwar_Perer_S_RA2510042050003_DSA_Task2_Report_Final.docx
-│   └── Nareshwar_Perer_S_RA2510042050003_DSA_Task2_Report_Final.pdf
 ├── Screenshots/
 │   ├── 00_program_output.png
 │   ├── 01_test_case_basic_lifo.png
